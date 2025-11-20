@@ -1,0 +1,28 @@
+body{
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    text-align: center;
+    background-color: purple;
+}
+main{
+    text-align: center;
+    background-color: darkorange;
+}
+footer{
+    text-align: center;
+    background-color: gray;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+article{
+    text-align: center;
+    background-color: #b0eaf4;
+}
